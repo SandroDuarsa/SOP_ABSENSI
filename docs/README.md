@@ -1,3 +1,7 @@
+## <h1>Persiapan</h1>
+Pertama kali yang harus dilakukan adalah persiapan kelengkapan menurut panduan berikut ini :
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSew1O8gd74Ah9zJ1dneJvyIJffqqSl8PDewjpNXcqCt_losTWOtJ-7wf8cXf3Ifw/pub?embedded=true" width="800" height="600"></iframe>
+
 ## <h1>1.  Konfigurasi </h1>
 Konfigurasi harus dilakukan secara berurutan dalam urutan sebagai berikut:
 
