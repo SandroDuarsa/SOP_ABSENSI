@@ -67,7 +67,7 @@ Mitigasi penting karena tim bisa dengan cepat mengidentifikasi dan mengurangi da
   <i>Dengan cara membuat group chat (anggota: owner, PIC, tim dev, implementator)</i>
 
 ## <h1>5. Evaluasi</h1>
-(penjelasan mengapa step ini penting dan tidak boleh diskip)
+Evaluasi dalam proyek itu penting karena membantu menilai kinerja aplikasi, mengidentifikasi perbaikan, memastikan kepuasan pengguna, mengelola risiko, memantau perkembangan. Ini memungkinkan tim dev untuk merespons perubahan dengan cepat, meningkatkan kualitas produk, dan memastikan proyek sesuai rencana.
 ### a. Pemantauan:
 - Lakukan pemantauan secara berkala untuk menilai kemajuan proyek dan mengidentifikasi perubahan yang mungkin diperlukan setiap 1 minggu sekali untuk 1 bulan pertama.
 - Lakukan pemantauan secara berkala setiap 2 minggu untuk bulan 2 - 3.
